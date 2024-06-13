@@ -77,3 +77,9 @@ xiaoyaliu/alist
 修改/.github/workflows/docker.yaml文件
 添加 schedule即可定时执行(此处cron使用UTC时区)
 ![](doc/定时执行.png)
+
+### 阿里云镜像加速地址
+https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors
+镜像工具中获取加速地址
+重启docker服务
+
