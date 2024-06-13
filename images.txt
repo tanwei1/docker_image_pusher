@@ -5,5 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 eclipse-temurin:8-jre
-myqsql:mysql:8.2.0
+mysql:8.2.0
 redis
